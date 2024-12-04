@@ -1,3 +1,6 @@
 # CampoMinado_com_FLOODFILL
-Trabalho da matéria de Algoritmo e Estruturas de Dados 1, construção de um campo minado com o algoritmo Flood Fill.
-Usando matrizes e ponterios e tambem empregando os conceitos de TAD, recursão e arquivos de texto.
+
+Trabalho da matéria Algoritmos e Estruturas de Dados 1, que consiste na construção de um jogo de Campo Minado utilizando o algoritmo Flood Fill. 
+O projeto faz uso de matrizes e ponteiros, além de empregar conceitos de TAD, recursão e manipulação de arquivos de texto.
+Para executar, basta baixar todos os arquivos e colocá-los em uma pasta. 
+Em seguida, acesse o prompt de comando e compile o código (o GCC já deve estar instalado no sistema).
